@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Members>
+    <Client>
+        <Name>Nikita Sawant</Name>
+        <Hobbies>
+            <Hobby>Coding</Hobby>
+            <Hobby>Cycling</Hobby>
+            <Hobby>Cooking</Hobby>
+        </Hobbies>
+    </Person>
+    <Person>
+        <Name>Shreeyansh Koladiya</Name>
+        <Hobbies>
+            <Hobby>Reading</Hobby>
+            <Hobby>Traveling</Hobby>
+            <Hobby>Painting</Hobby>
+        </Hobbies>
+    </Person>
+    <Person>
+        <Name>Taranjeet Kaur</Name>
+        <Hobbies>
+            <Hobby>Gaming</Hobby>
+            <Hobby>Running</Hobby>
+            <Hobby>Gardening</Hobby>
+        </Hobbies>
+    </Person>
+	<Person>
+        <Name>Yesha Patel</Name>
+        <Hobbies>
+            <Hobby>Reading</Hobby>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Gardening</Hobby>
+        </Hobbies>
+    </Person>
+    <Person>
+        <Name>Harsh Patel</Name>
+        <Hobbies>
+            <Hobby>Web Development</Hobby>
+            <Hobby>Debugging</Hobby>
+            <Hobby>Sleeping</Hobby>
+        </Hobbies>
+    </Person>
+	<Person>
+        <Name>Yash Patel</Name>
+        <Hobbies>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Travelling</Hobby>
+            <Hobby>Dancing</Hobby>
+        </Hobbies>
+    </Person>
+	<Person>
+        <Name>KaranSing Parmar</Name>
+        <Hobbies>
+            <Hobby>Marketting</Hobby>
+            <Hobby>Reading</Hobby>
+            <Hobby>Dancing</Hobby>
+        </Hobbies>
+    </Person>
+	<Person>
+        <Name>Yash Hemantbhai Patel</Name>
+        <Hobbies>
+            <Hobby>Marketting</Hobby>
+            <Hobby>Reading</Hobby>
+            <Hobby>Dancing</Hobby>
+        </Hobbies>
+    </Person>
+	<Person>
+        <Name>Deep Vimalkumar Parikh</Name>
+        <Hobbies>
+            <Hobby>cooking</Hobby>
+            <Hobby>Trekking</Hobby>
+            <Hobby>Coding</Hobby>
+        </Hobbies>
+    </Person>
+	<Person>
+        <Name>Yash Hemantbhai Patel</Name>
+        <Hobbies>
+            <Hobby>Singing</Hobby>
+            <Hobby>Watching Movies</Hobby>
+            <Hobby>Dancing</Hobby>
+        </Hobbies>
+    </Person>
+</People>
